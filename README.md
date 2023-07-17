@@ -1,4 +1,4 @@
-#Python Turtle Art: Flumequine by Hirst
+# Python Turtle Art: Flumequine by Hirst
 
 Description:
 Welcome to the "Flumequine Art" repository! This repository showcases a Python code implementation using the Turtle graphics library to recreate the famous artwork "Flumequine" by Damien Hirst. 
