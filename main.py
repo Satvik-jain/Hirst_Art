@@ -1,3 +1,4 @@
+# Getting color from a picture
 # import colorgram
 #
 # rgb_colors = []
@@ -18,8 +19,11 @@ color_list = [(202, 164, 110), (240, 245, 241), (236, 239, 243), (149, 75, 50), 
               (183, 205, 171), (36, 60, 74), (19, 86, 89), (82, 148, 129), (147, 17, 19), (27, 68, 102), (12, 70, 64),
               (107, 127, 153), (176, 192, 208), (168, 99, 102)]
 
+# each circle is having radius 20 and distance between the circles is 50.
+
 colormode(255)
 tim = Turtle()
+tim.hideturtle()
 tim.speed('fastest')
 tim.penup()
 tim.goto(-300, -300)
